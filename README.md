@@ -1,6 +1,6 @@
 # smilevue
 
-> 'vue + koa 移动商城'
+> A Vue.js project
 
 ## Build Setup
 
